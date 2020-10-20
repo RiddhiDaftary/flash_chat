@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567111818353",
+    "firebase_url": "https://flash-chat-d2b55.firebaseio.com",
+    "project_id": "flash-chat-d2b55",
+    "storage_bucket": "flash-chat-d2b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567111818353:android:3be78eeb5822f869c28fd0",
+        "android_client_info": {
+          "package_name": "com.riddhi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567111818353-gt46n198kss79s52gbef7ksrthcc9g7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorEOyAwaB_gkE5QqwojEFBYobx6DofjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567111818353-gt46n198kss79s52gbef7ksrthcc9g7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
